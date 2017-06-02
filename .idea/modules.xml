@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CTFrame.iml" filepath="$PROJECT_DIR$/CTFrame.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ctlibrary/ctlibrary.iml" filepath="$PROJECT_DIR$/ctlibrary/ctlibrary.iml" />
     </modules>
   </component>
 </project>
