@@ -73,8 +73,8 @@ public abstract class BaseActivity<T extends BasePresenter> extends AppCompatAct
         }
         setActionBar();
         initViewFindByid();
-        init();
         bindView(savedInstanceState);
+        init();
     }
 
     protected abstract void init();
